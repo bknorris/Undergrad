@@ -1,0 +1,28 @@
+Matlab	ArcGIS	
+56550	62200	Daugaard-Jensen
+14925	14900	Gades
+36825	164500	Hagen
+46125	20550	Hayes
+27640	21825	Helheim
+41575	74500	Igdlugdlip
+46875	38325	Ikertivaq
+109100	157325	Jakobshavn
+69625	54175	Kangerdlugssuaq
+13550	9300	Kangerdlugssup
+35150	30500	Kong Oscar
+160875	155575	Nioghalvfjerdbrae
+76150	47275	Nonsurveyed
+45500	52775	Nonsurveyed
+33700	17550	Nonsurveyed
+65425	17800	Nonsurveyed
+65425	65325	Nordenskiold
+51775	24875	Nunatakavsaup
+8300	3700	Peary/Docker
+77100	65400	Petermann
+34975	43775	Rinks
+57600	48275	SE Greenland
+83450	84675	Sermeq kujatdleq
+21900	22350	Steenstrup
+97575	57600	Storstrømmen
+39350	39100	Upemavik
+150400	153500	Zacharie
